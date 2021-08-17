@@ -1,0 +1,11 @@
+framework module ProbableWaffle {
+  umbrella header "ProbableWaffle.h"
+
+  export *
+  module * { export * }
+}
+
+module ProbableWaffle.Swift {
+    header "ProbableWaffle-Swift.h"
+    requires objc
+}
