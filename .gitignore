@@ -20,5 +20,5 @@ DerivedData
 *.hmap
 *.xccheckout
 Notes.txt
-Probable Waffle/
-Probable Waffle.xcodeproj
+ProbableWaffle/
+ProbableWaffle.xcodeproj
